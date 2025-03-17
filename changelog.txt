@@ -1,0 +1,4 @@
+1.0
+* admin can login
+* admin can add/update students
+* student can login
